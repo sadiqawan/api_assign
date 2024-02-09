@@ -29,6 +29,7 @@ class _MultiplePostApiScreenState extends State<MultiplePostApiScreen> {
     } else {
       throw Exception('Something went wrong');
     }
+
   }
 
   @override
